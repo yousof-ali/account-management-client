@@ -1,0 +1,11 @@
+ul li a{
+    transition: 0.5s;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem ;
+    padding: 0.5rem;
+}
+ul .active{
+    background-color: rgb(37 99 235);
+}
+
